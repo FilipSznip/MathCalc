@@ -1,0 +1,21 @@
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe.config
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.pdb
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csprojResolveAssemblyReference.cache
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Form1.resources
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Properties.Resources.resources
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.GenerateResource.Cache
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.exe
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.pdb
+C:\Programowanie Apk\Kalkulator1\Kalkulator1\bin\Debug\ZedGraphControl.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe.config
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.CopyComplete
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.pdb
